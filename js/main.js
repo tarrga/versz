@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   };
 
   const loadJson = async (lang) => {
-    const res = await fetch(`../lang/${lang}.json`);
+    const res = await fetch(`./lang/${lang}.json`);
     const data = await res.json();
     return data[lang];
   };
