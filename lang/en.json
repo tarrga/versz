@@ -1,0 +1,46 @@
+{
+  "en": {
+    "links": ["Fooldal en", "Szolgaltatasok en", "Bemutatkozas en", "Referenciak en", "Kontakt en"],
+    "intro": {
+      "introTitle": "Bemutatkozas en",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At ipsa sed in labore illo excepturi reiciendis autem iusto neque rerum, maiores quos voluptate dolor, nostrum, consequatur quas deleniti ex! Quas!"
+    },
+    "services": {
+      "servicesTitle": "Szolgaltatasok en",
+      "serviceItems": [
+        {
+          "title": "3D tervezés és 2D dokument en",
+          "service": "Our company specializes in 3D design and 2D documentation creation. With the help of our experienced designers and engineers, we create complex and detailed plans that turn our clients' visions into reality. We utilize advanced technologies and software to ensure a high level of precision in the design process. We are flexible and collaborate with our clients to understand their needs and meet the challenges of unique projects."
+        },
+        {
+          "title": "3D scannelés en",
+          "service": "Our company offers 3D scanning service. We have one specialized scanner that allows for high precision and detail in digitizing real objects. With our scanner, we capture the geometry and textures of objects, and based on this data, we create digital replicas. This technology has broad applications in product design, prototyping, and industrial manufacturing. The accurate measurements and detailed models enable our clients to precisely visualize and analyze the geometry and properties of objects."
+        },
+        {
+          "title": "3D nyomtatás en",
+          "service": "We offer 3D printing services utilizing our printable area of 350mm x 350mm x 400mm. We have a wide range of materials available, allowing us to create detailed and larger-sized objects. 3D printing enables us to produce prototypes, functional parts, models, and much more. We are flexible and adapt to our clients' requirements, working closely with them to achieve the best results."
+        },
+        {
+          "title": "Prototípus tervezés és gyártás en",
+          "service": "We specialize in prototype design and manufacturing. With the help of our experienced design team, we develop conceptual plans that are transformed into tangible prototypes. Utilizing modern CAD (Computer-Aided Design) software, we create 3D models, which are then precisely machined to create the final prototype. Prototypes can be used for testing, market validation, and further development. We are flexible and adapt to our clients' requirements, ensuring the production of high-quality and accurate prototypes."
+        },
+        {
+          "title": "Cserealkatrészek visszamérése vagy scannelése en",
+          "service": "We specialize in reverse engineering or scanning of replacement parts, as well as their manufacturing. With the help of our experienced team, we accurately measure existing replacement parts or scan them to create digital models. This allows us to produce exact replicas of the existing parts or manufacture improved versions based on their specifications. We are flexible and adapt to our clients' requirements, ensuring the production of high-quality and reliable replacement parts."
+        },
+        {
+          "title": "Fémmegmunkálás en",
+          "service": "We offer metal machining as a service. With our experienced team and exceptional expertise, we perform operations such as turning, milling, drilling, gear cutting, hardening, and other similar processes. We are flexible and adapt to our clients' requirements, providing accurate and high-quality results. The metal machining we carry out can be utilized in various industries, including the automotive industry, machinery manufacturing, electronics, and many other fields."
+        },
+        {
+          "title": "Befogókészülékek és üllékek tervezése és gyártása en",
+          "service": "We specialize in the design and manufacturing of clamping devices. With the help of our experienced team, we develop and create various types of clamping devices that enable efficient fixation and reliable performance. We take into consideration the unique requirements of our clients and adapt to different workpieces and applications. Our clamping devices are made from high-quality materials and have precise dimensions to ensure stable and accurate fixation."
+        },
+        {
+          "title": "Céglép tervezés és gyártás en",
+          "service": "We specialize in the design and manufacturing of custom-purpose machines. With the help of our experienced team, we develop and create personalized machines that perform specific tasks and operations. We take into account the requirements and technical specifications of our clients to design and produce purpose-built machines that operate efficiently and reliably. Our purpose-built machines are made from high-quality materials, and we employ the latest technology in the design and manufacturing process."
+        }
+      ]
+    }
+  }
+}

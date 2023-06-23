@@ -1,0 +1,46 @@
+{
+  "sr": {
+    "links": ["Fooldal sr", "Bemutatkozas sr", "Szolgaltatasok sr", "Referenciak sr", "Kontakt sr"],
+    "intro": {
+      "introTitle": "Bemutatkozas sr",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At ipsa sed in labore illo excepturi reiciendis autem iusto neque rerum, maiores quos voluptate dolor, nostrum, consequatur quas deleniti ex! Quas!"
+    },
+    "services": {
+      "servicesTitle": "Szolgaltatasok sr",
+      "serviceItems": [
+        {
+          "title": "3D tervezés és 2D dokument",
+          "service": "Naša kompanija se bavi 3D dizajnom i izradom 2D dokumentacije. Uz pomoć naših iskusnih dizajnera i inžinjera, kreiramo kompleksne i detaljne planove koji pretvaraju vizije naših klijenata u stvarnost. Koristimo napredne tehnologije i softvere kako bismo obezbedili visok nivo preciznosti u procesu dizajniranja. Fleksibilni smo i sarađujemo sa našim klijentima kako bismo razumeli njihove potrebe i zadovoljili izazove jedinstvenih projekata."
+        },
+        {
+          "title": "3D scannelés",
+          "service": "Naša kompanija pruža uslugu 3D skeniranja. Imamo jedan specijalizovani skener koji omogućava visoku preciznost i detaljnost pri digitalizaciji stvarnih objekata. Pomoću našeg skenera, snimamo geometriju i teksture objekata, a zatim koristeći ove podatke, stvaramo digitalne kopije. Ova tehnologija ima široku primenu u dizajnu proizvoda, razvoju prototipova i industrijskoj proizvodnji. Precizna merenja i detaljni modeli omogućavaju našim klijentima da tačno vide i analiziraju geometriju i karakteristike objekata."
+        },
+        {
+          "title": "3D nyomtatás",
+          "service": "Pružamo usluge 3D štampe koristeći našu print površinu od 350 mm x 350 mm x 400 mm. Imamo širok spektar materijala koji nam omogućavaju izradu detaljnih i većih predmeta. 3D štampa nam omogućava izradu prototipova, funkcionalnih delova, modela i mnogo više. Fleksibilni smo i prilagođavamo se zahtevima naših klijenata, sarađujući s njima kako bismo postigli najbolje rezultate."
+        },
+        {
+          "title": "Prototípus tervezés és gyártás",
+          "service": "Bavimo se dizajniranjem i izradom prototipova. Uz pomoć iskusnog tima dizajnera, razvijamo konceptualne planove koji se zatim pretvaraju u stvarne prototipove. Koristeći moderne CAD softvere, kreiramo 3D modele, koje potom precizno obrađujemo kako bismo dobili finalni prototip. Prototipovi se mogu koristiti za testiranje, validaciju na tržištu i dalji razvoj. Fleksibilni smo i prilagođavamo se zahtevima naših klijenata, garantujući visok kvalitet i preciznost u izradi prototipova."
+        },
+        {
+          "title": "Cserealkatrészek visszamérése vagy scannelése",
+          "service": "Bavimo se rekonstrukcijom ili skeniranjem zamenskih delova, kao i njihovom proizvodnjom. Uz pomoć našeg iskusnog tima, precizno merimo postojeće zamenske delove ili ih skeniramo kako bismo na osnovu tih podataka mogli da proizvedemo nove. To nam omogućava izradu tačnih kopija postojećih delova ili proizvodnju unapređenih verzija. Fleksibilni smo i prilagođavamo se zahtevima naših klijenata, pružajući visok kvalitet i pouzdane zamenske delove."
+        },
+        {
+          "title": "Fémmegmunkálás",
+          "service": "Pružamo usluge obrade metala. Sa našim iskusnim timom i izuzetnim stručnim znanjem vršimo struganje, frezanje, bušenje, zupčenje, kaljenje i druge slične operacije. Fleksibilni smo i prilagođavamo se zahtevima naših klijenata, pružajući tačne i kvalitetne rezultate. Obrada metala koju vršimo može se primeniti u različitim industrijskim sektorima, uključujući automobilsku industriju, mašinogradnju, elektroniku i mnoge druge oblasti."
+        },
+        {
+          "title": "Befogókészülékek és üllékek tervezése és gyártása",
+          "service": "Bavimo se projektovanjem i proizvodnjom steznih alata. Sa pomoću našeg iskusnog tima razvijamo i izrađujemo različite vrste steznih alata koji omogućavaju efikasno fiksiranje i pouzdano obavljanje posla. Uvažavamo posebne zahteve naših klijenata i prilagođavamo se različitim radnim komadima i primenama. Naši stezni alati se izrađuju od visokokvalitetnih materijala i imaju precizne dimenzije kako bi obezbedili stabilno i precizno fiksiranje."
+        },
+        {
+          "title": "Céglép tervezés és gyártás",
+          "service": "Bavimo se projektovanjem i proizvodnjom namenskih mašina. Sa pomoću našeg iskusnog tima razvijamo i izrađujemo personalizovane namenske mašine koje obavljaju specifične zadatke i operacije. Uvažavamo zahteve i tehničke specifikacije naših klijenata kako bismo projektovali i proizveli namenske mašine koje efikasno i pouzdano funkcionišu. Naše namenske mašine se izrađuju od visokokvalitetnih materijala, a primenjujemo najnoviju tehnologiju u procesu projektovanja i proizvodnje."
+        }
+      ]
+    }
+  }
+}

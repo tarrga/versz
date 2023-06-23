@@ -1,0 +1,46 @@
+{
+  "hu": {
+    "links": ["Fooldal", "Bemutatkozas", "Szolgaltatasok", "Referenciak", "Kontakt"],
+    "intro": {
+      "introTitle": "Bemutatkozas",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At ipsa sed in labore illo excepturi reiciendis autem iusto neque rerum, maiores quos voluptate dolor, nostrum, consequatur quas deleniti ex! Quas!"
+    },
+    "services": {
+      "servicesTitle": "Szolgaltatasok",
+      "serviceItems": [
+        {
+          "title": "3D tervezés és 2D dokument",
+          "service": "Cégünk a 3D tervezés és 2D dokumentáció készítés területén működik. Tapasztalt tervezőink és mérnökeink segítségével komplex és részletes terveket hozunk létre, amelyekkel ügyfeleink elképzeléseit valósággá változtatjuk. Az alkalmazott technológiák és szoftverek segítségével magas színvonalú és pontos tervezési folyamatot biztosítunk. Rugalmasak vagyunk, és együttműködünk ügyfeleinkkel, hogy megértsük az igényeiket és kielégítsük az egyedi projektek kihívásait."
+        },
+        {
+          "title": "3D scannelés",
+          "service": "A vállalkozásunk a 3D szkennelés szolgáltatást kínál. Rendelkezünk egy speciális szkennelőeszközzel, amellyel nagy pontossággal és részletességgel digitalizáljuk a valós tárgyakat. A szkennelőeszközünk segítségével rögzítjük a tárgyak geometriáját és textúráját, majd ezeket az adatokat alapul véve létrehozzuk a digitális másolatokat. Ez a technológia széles körben alkalmazható a terméktervezésben, a prototípus fejlesztésben és az ipari gyártásban. A pontos mérések és a részletes modell információk lehetővé teszik ügyfeleink számára, hogy pontosan lássák és elemezzék a tárgyak geometriáját és tulajdonságait."
+        },
+        {
+          "title": "3D nyomtatás",
+          "service": "Cégünk 3D nyomtatási szolgáltatást kínál, amely során kihasználjuk 350 mm x 350 mm x 400 mm nyomtatható területünket. Rendelkezünk széles választékú anyagokkal, amelyek lehetővé teszik a tárgyak részletes és nagyobb méretű nyomtatását. A 3D nyomtatás segítségével prototípusokat, funkcionális alkatrészeket, modelleket és még sok más tárgyat készítünk. Rugalmasan alkalmazkodunk az ügyfelek igényeihez, és együttműködünk velük a legjobb eredmények eléréséért."
+        },
+        {
+          "title": "Prototípus tervezés és gyártás",
+          "service": "Prototípusok tervezését és gyártását vállaljuk. Tapasztalt tervezőcsapatunk segítségével koncepcionális terveket alakítunk ki, majd ezeket valós prototípusokká alakítjuk. A modern CAD (számítógépes segített tervezés) szoftvereket használva 3D modelleket hozunk létre, majd ezeket a modelleket pontosan megmunkáljuk, hogy létrehozzuk a végső prototípust. A prototípusok tesztelésre, piaci validációra és továbbfejlesztésre használhatók. Rugalmasan alkalmazkodunk az ügyfelek igényeihez és garantáljuk a magas minőségű és pontos prototípusok gyártását."
+        },
+        {
+          "title": "Cserealkatrészek visszamérése vagy scannelése",
+          "service": "Vállaljuk cserealkatrészek visszamérését vagy szkennelését, valamint azok gyártását. Tapasztalt csapatunk segítségével pontosan lemérjük a meglévő cserealkatrészeket vagy szkenneljük azokat, hogy adataik alapján újat gyártsunk. Ez lehetővé teszi a meglévő alkatrészek pontos másolatának elkészítését vagy azok fejlesztett változatának gyártását. Rugalmasan alkalmazkodunk az ügyfelek igényeihez és biztosítjuk a magas minőségű és megbízható cserealkatrészeket."
+        },
+        {
+          "title": "Fémmegmunkálás",
+          "service": "Vállalunk  fémmegmunkálást szolgáltatásként is. Tapasztalt csapatunkkal és kiváló szaktudásunkkal elvégezzük az esztergálást, marást, fúrást, fogazást, edzést és más hasonló műveleteket. Rugalmasan alkalmazkodunk az ügyfelek igényeihez és biztosítjuk a pontos és minőségi eredményeket. Az általunk végzett fémmegmunkálás széles körű iparágakban hasznosítható, beleértve az autóipart, gépipart, elektronikai ipart és sok más területet."
+        },
+        {
+          "title": "Befogókészülékek és üllékek tervezése és gyártása",
+          "service": "Vállaljuk befogókészülégek tervezését és gyártását. Tapasztalt csapatunk segítségével kifejlesztünk és elkészítünk különféle típusú befogókészülékeket, amelyek lehetővé teszik a hatékony rögzítést és megbízható munkavégzést. Figyelembe vesszük az ügyfelek egyedi igényeit és alkalmazkodunk a különböző munkadarabokhoz és alkalmazásokhoz. A befogókészülégeink magas minőségű anyagokból készülnek, és pontos méretekkel rendelkeznek, hogy biztosítsák a stabil és pontos rögzítést."
+        },
+        {
+          "title": "Céglép tervezés és gyártás",
+          "service": "Vállaljuk célgépek tervezését és gyártását. Tapasztalt csapatunk segítségével személyre szabott célgépeket fejlesztünk ki és hozunk létre, amelyek specifikus feladatokat és műveleteket végeznek. Figyelembe vesszük az ügyfelek igényeit és technikai követelményeit, hogy olyan célgépeket tervezzünk és gyártsunk, amelyek hatékonyan és megbízhatóan működnek. A célgépeink magas minőségű anyagokból készülnek és a legújabb technológiákat alkalmazzuk a tervezés és gyártás során."
+        }
+      ]
+    }
+  }
+}
